@@ -1,0 +1,8 @@
+{
+  "javs": {
+    "component": "Countdown"
+  },
+   "javs.title": {
+     "component": "Title"
+   }
+}
