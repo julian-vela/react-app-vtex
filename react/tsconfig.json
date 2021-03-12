@@ -17,6 +17,7 @@
   "include": [
     "./typings/*.d.ts",
     "./**/*.tsx",
-    "./**/*.ts"
+    "./**/*.ts",
+    "./**/*.graphql"
   ]
 }
